@@ -29,7 +29,7 @@ Ensure your `appsettings.json` file contains the correct connection string to yo
   },
   "AllowedHosts": "*",
   "ConnectionStrings": {
-    "DefaultConnection": "Data Source=LAPTOP-EOGAQESG\\SQLEXPRESS;Initial Catalog=BestStoreDb;Integrated Security=True;Trust Server Certificate=True"
+    "DefaultConnection": "Data Source=<Add Your Server Name>;Initial Catalog=BestStoreDb;Integrated Security=True;Trust Server Certificate=True"
   }
 }
 ```
