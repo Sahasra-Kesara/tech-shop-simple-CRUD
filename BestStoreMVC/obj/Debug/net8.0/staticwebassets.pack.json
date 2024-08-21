@@ -5,6 +5,18 @@
       "PackagePath": "staticwebassets\\BestStoreMVC.bundle.scp.css"
     },
     {
+      "Id": "D:\\ASPdotNET\\BestStoreMVC\\BestStoreMVC\\wwwroot\\Images\\Electronic_Icons_01.jpg",
+      "PackagePath": "staticwebassets\\Images\\Electronic_Icons_01.jpg"
+    },
+    {
+      "Id": "D:\\ASPdotNET\\BestStoreMVC\\BestStoreMVC\\wwwroot\\Images\\Electronic_Icons_02.jpg",
+      "PackagePath": "staticwebassets\\Images\\Electronic_Icons_02.jpg"
+    },
+    {
+      "Id": "D:\\ASPdotNET\\BestStoreMVC\\BestStoreMVC\\wwwroot\\Images\\Electronic_Icons_03.jpg",
+      "PackagePath": "staticwebassets\\Images\\Electronic_Icons_03.jpg"
+    },
+    {
       "Id": "D:\\ASPdotNET\\BestStoreMVC\\BestStoreMVC\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -247,6 +259,10 @@
     {
       "Id": "D:\\ASPdotNET\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products20240723213814390.jpg",
       "PackagePath": "staticwebassets\\products20240723213814390.jpg"
+    },
+    {
+      "Id": "D:\\ASPdotNET\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products20240723230920100.jpg",
+      "PackagePath": "staticwebassets\\products20240723230920100.jpg"
     },
     {
       "Id": "D:\\ASPdotNET\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\27_inch_monitor.jpg",

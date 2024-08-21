@@ -73,3 +73,4 @@ D:\ASPdotNET\BestStoreMVC\BestStoreMVC\obj\Debug\net8.0\refint\BestStoreMVC.dll
 D:\ASPdotNET\BestStoreMVC\BestStoreMVC\obj\Debug\net8.0\BestStoreMVC.pdb
 D:\ASPdotNET\BestStoreMVC\BestStoreMVC\obj\Debug\net8.0\BestStoreMVC.genruntimeconfig.cache
 D:\ASPdotNET\BestStoreMVC\BestStoreMVC\obj\Debug\net8.0\ref\BestStoreMVC.dll
+D:\ASPdotNET\BestStoreMVC\BestStoreMVC\obj\Debug\net8.0\BestStoreMVC.sourcelink.json

@@ -1,40 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\ASPdotNET\\BestStoreMVC\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{C5CAEDCF-0305-46C2-A78D-34A82C2ED321}|BestStoreMVC\\BestStoreMVC.csproj|d:\\aspdotnet\\beststoremvc\\beststoremvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5CAEDCF-0305-46C2-A78D-34A82C2ED321}|BestStoreMVC\\BestStoreMVC.csproj|solutionrelative:beststoremvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5CAEDCF-0305-46C2-A78D-34A82C2ED321}|BestStoreMVC\\BestStoreMVC.csproj|d:\\aspdotnet\\beststoremvc\\beststoremvc\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C5CAEDCF-0305-46C2-A78D-34A82C2ED321}|BestStoreMVC\\BestStoreMVC.csproj|solutionrelative:beststoremvc\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5CAEDCF-0305-46C2-A78D-34A82C2ED321}|BestStoreMVC\\BestStoreMVC.csproj|d:\\aspdotnet\\beststoremvc\\beststoremvc\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C5CAEDCF-0305-46C2-A78D-34A82C2ED321}|BestStoreMVC\\BestStoreMVC.csproj|solutionrelative:beststoremvc\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5CAEDCF-0305-46C2-A78D-34A82C2ED321}|BestStoreMVC\\BestStoreMVC.csproj|d:\\aspdotnet\\beststoremvc\\beststoremvc\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C5CAEDCF-0305-46C2-A78D-34A82C2ED321}|BestStoreMVC\\BestStoreMVC.csproj|solutionrelative:beststoremvc\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5CAEDCF-0305-46C2-A78D-34A82C2ED321}|BestStoreMVC\\BestStoreMVC.csproj|d:\\aspdotnet\\beststoremvc\\beststoremvc\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5CAEDCF-0305-46C2-A78D-34A82C2ED321}|BestStoreMVC\\BestStoreMVC.csproj|solutionrelative:beststoremvc\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5CAEDCF-0305-46C2-A78D-34A82C2ED321}|BestStoreMVC\\BestStoreMVC.csproj|d:\\aspdotnet\\beststoremvc\\beststoremvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5CAEDCF-0305-46C2-A78D-34A82C2ED321}|BestStoreMVC\\BestStoreMVC.csproj|solutionrelative:beststoremvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5CAEDCF-0305-46C2-A78D-34A82C2ED321}|BestStoreMVC\\BestStoreMVC.csproj|d:\\aspdotnet\\beststoremvc\\beststoremvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C5CAEDCF-0305-46C2-A78D-34A82C2ED321}|BestStoreMVC\\BestStoreMVC.csproj|solutionrelative:beststoremvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5CAEDCF-0305-46C2-A78D-34A82C2ED321}|BestStoreMVC\\BestStoreMVC.csproj|d:\\aspdotnet\\beststoremvc\\beststoremvc\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5CAEDCF-0305-46C2-A78D-34A82C2ED321}|BestStoreMVC\\BestStoreMVC.csproj|solutionrelative:beststoremvc\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -42,111 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\ASPdotNET\\BestStoreMVC\\BestStoreMVC\\Views\\Products\\Index.cshtml",
-              "RelativeDocumentMoniker": "BestStoreMVC\\Views\\Products\\Index.cshtml",
-              "ToolTip": "D:\\ASPdotNET\\BestStoreMVC\\BestStoreMVC\\Views\\Products\\Index.cshtml",
-              "RelativeToolTip": "BestStoreMVC\\Views\\Products\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-23T09:04:48.811Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "D:\\ASPdotNET\\BestStoreMVC\\BestStoreMVC\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "BestStoreMVC\\Controllers\\ProductsController.cs",
-              "ToolTip": "D:\\ASPdotNET\\BestStoreMVC\\BestStoreMVC\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "BestStoreMVC\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAFEAAAAAAAAAAAAowG0AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T08:41:11.508Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductDto.cs",
-              "DocumentMoniker": "D:\\ASPdotNET\\BestStoreMVC\\BestStoreMVC\\Models\\ProductDto.cs",
-              "RelativeDocumentMoniker": "BestStoreMVC\\Models\\ProductDto.cs",
-              "ToolTip": "D:\\ASPdotNET\\BestStoreMVC\\BestStoreMVC\\Models\\ProductDto.cs",
-              "RelativeToolTip": "BestStoreMVC\\Models\\ProductDto.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAoAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T10:38:51.568Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\ASPdotNET\\BestStoreMVC\\BestStoreMVC\\Views\\Products\\Edit.cshtml",
-              "RelativeDocumentMoniker": "BestStoreMVC\\Views\\Products\\Edit.cshtml",
-              "ToolTip": "D:\\ASPdotNET\\BestStoreMVC\\BestStoreMVC\\Views\\Products\\Edit.cshtml",
-              "RelativeToolTip": "BestStoreMVC\\Views\\Products\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-23T16:22:14.755Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\ASPdotNET\\BestStoreMVC\\BestStoreMVC\\Views\\Products\\Create.cshtml",
-              "RelativeDocumentMoniker": "BestStoreMVC\\Views\\Products\\Create.cshtml",
-              "ToolTip": "D:\\ASPdotNET\\BestStoreMVC\\BestStoreMVC\\Views\\Products\\Create.cshtml",
-              "RelativeToolTip": "BestStoreMVC\\Views\\Products\\Create.cshtml",
-              "ViewState": "AQIAADQAAAAAAAAAAAAqwEgAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-23T10:47:04.681Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\ASPdotNET\\BestStoreMVC\\BestStoreMVC\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "BestStoreMVC\\Models\\Product.cs",
-              "ToolTip": "D:\\ASPdotNET\\BestStoreMVC\\BestStoreMVC\\Models\\Product.cs",
-              "RelativeToolTip": "BestStoreMVC\\Models\\Product.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBMAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T06:29:16.488Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\ASPdotNET\\BestStoreMVC\\BestStoreMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "BestStoreMVC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\ASPdotNET\\BestStoreMVC\\BestStoreMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "BestStoreMVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-23T09:50:18.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\ASPdotNET\\BestStoreMVC\\BestStoreMVC\\Services\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "BestStoreMVC\\Services\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\ASPdotNET\\BestStoreMVC\\BestStoreMVC\\Services\\ApplicationDbContext.cs",
-              "RelativeToolTip": "BestStoreMVC\\Services\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T06:21:26.534Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
